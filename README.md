@@ -6,6 +6,10 @@ ICFPC 2020 is the 25th instance of the annual programming contest series sponsor
 
 The start date will be announced later. Stay tuned!
 
+## News and updates
+
+Please [subscribe to our newsletter](https://mailchi.mp/ab2e36a3ea69/icfpcontest2020) to get a single email per month with news and updates on ICFPC 2020.
+
 ## Organizers
 
 ICFPC 2020 is brought to you by a [team](https://github.com/orgs/icfpcontest2020/people) of seasoned ICFPC participants from Kontur, a major tech company based in Russia.
