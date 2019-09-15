@@ -15,3 +15,5 @@ Please [subscribe to our newsletter](https://mailchi.mp/ab2e36a3ea69/icfpcontest
 ICFPC 2020 is brought to you by a [team](https://github.com/orgs/icfpcontest2020/people) of seasoned ICFPC participants from Kontur, a major tech company based in Russia.
 
 [![Kontur](./logo-kontur-eng.png)](https://tech.kontur.ru/contests/icfpc)
+
+<!-- Yandex.Metrika counter --> <script type="text/javascript" > (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)}; m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)}) (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym"); ym(55333606, "init", { clickmap:true, trackLinks:true, accurateTrackBounce:true }); </script> <noscript><div><img src="https://mc.yandex.ru/watch/55333606" style="position:absolute; left:-9999px;" alt="" /></div></noscript> <!-- /Yandex.Metrika counter -->
