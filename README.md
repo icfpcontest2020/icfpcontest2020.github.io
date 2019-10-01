@@ -8,7 +8,10 @@ The start date will be announced later. Stay tuned!
 
 ## News and updates
 
-Please [subscribe to our newsletter](https://mailchi.mp/ab2e36a3ea69/icfpcontest2020) to get a single email per month with news and updates on ICFPC 2020.
+Please follow us to get timely news and updates on ICFPC 2020. Subscribe to:
+
+* our [monthly newsletter](https://mailchi.mp/ab2e36a3ea69/icfpcontest2020)
+* our [Twitter account](https://twitter.com/icfpcontest2020)
 
 ## Organizers
 
