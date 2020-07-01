@@ -6,6 +6,8 @@ ICFP Contest 2020 is the 25th instance of the annual programming contest series 
 
 The contest will start on July 17, 2020 at 13:00 UTC. [The clock is ticking.](https://countingdownto.com/?c=3009383) 
 
+[Contest rules](rules.md)
+
 ## News and updates
 
 Please follow us to get timely news and updates on ICFPC 2020. Subscribe to:
