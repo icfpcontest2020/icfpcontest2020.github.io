@@ -1,7 +1,7 @@
 # ICFP Programming Contest 2020
 ## Rules
 
-- This is an open contest. Anyone may participate except for the ICFP Programming Contest 2019 organisers (“Organisers”) and employees of the companies they are affiliated with.
+- This is an open contest. Anyone may participate except for the ICFP Programming Contest 2020 organisers (“Organisers”) and employees of the companies they are affiliated with.
 
 - No advance registration or entry fee is required.
 
