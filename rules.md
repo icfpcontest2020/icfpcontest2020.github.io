@@ -11,7 +11,7 @@
 
 - Teams must register during the contest to obtain a team-specific private identifier that will be used for submissions and profiles. Teams using more than one private identifier during the contest may be disqualified.
 
-- Teams wishing to be considered for prizes must submit source code at the end of the contest. The exact details of contest submissions will be announced at the start of the contest. Teams may submit multiple times during the contest; early submissions may be evaluated during the contest for live standings, but only the last submissions for the lightning division and the full contest will be considered for prizes.
+- Teams wishing to be considered for prizes must submit source code at the end of the contest. The exact details of contest submissions will be announced at the start of the contest. Teams may submit multiple times during the contest.
 
 - The Organisers retain the right to monitor, record, and investigate the submissions, other contest-related activities, or lack thereof, of contestants and teams. The records are used for the sole purpose of judgment and are discarded once the contest-related events are over.
 
