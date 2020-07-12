@@ -1,31 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.5bb8bbfb.chunk.css",
-    "main.js": "/static/js/main.d99acf43.chunk.js",
-    "main.js.map": "/static/js/main.d99acf43.chunk.js.map",
+    "main.css": "/static/css/main.b69b9bf0.chunk.css",
+    "main.js": "/static/js/main.deb0d944.chunk.js",
+    "main.js.map": "/static/js/main.deb0d944.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.e62d9830.js",
     "runtime-main.js.map": "/static/js/runtime-main.e62d9830.js.map",
-    "static/js/2.a5253e05.chunk.js": "/static/js/2.a5253e05.chunk.js",
-    "static/js/2.a5253e05.chunk.js.map": "/static/js/2.a5253e05.chunk.js.map",
+    "static/js/2.275d6b0b.chunk.js": "/static/js/2.275d6b0b.chunk.js",
+    "static/js/2.275d6b0b.chunk.js.map": "/static/js/2.275d6b0b.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.5a73ac3d78107ef513ae8294af5b0175.js": "/precache-manifest.5a73ac3d78107ef513ae8294af5b0175.js",
+    "precache-manifest.a2a9fd1570584014912b4265d5633a47.js": "/precache-manifest.a2a9fd1570584014912b4265d5633a47.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.5bb8bbfb.chunk.css.map": "/static/css/main.5bb8bbfb.chunk.css.map",
-    "static/js/2.a5253e05.chunk.js.LICENSE.txt": "/static/js/2.a5253e05.chunk.js.LICENSE.txt",
-    "static/media/Kontur-Iconic-eco-20px.woff2": "/static/media/Kontur-Iconic-eco-20px.98878a7f.woff2",
-    "static/media/Kontur-Iconic-eco-20px.eot": "/static/media/Kontur-Iconic-eco-20px.b811ce6c.eot",
-    "static/media/Kontur-Iconic-eco-20px.woff": "/static/media/Kontur-Iconic-eco-20px.cc8e65cb.woff",
-    "static/media/fallback_circle.png": "/static/media/fallback_circle.7d850235.png",
-    "static/media/fallback_circle_big.png": "/static/media/fallback_circle_big.7890347b.png",
-    "static/media/fallback_circle_normal.png": "/static/media/fallback_circle_normal.dae3133e.png",
-    "static/media/font.woff2": "/static/media/font.7b359e7d.woff2",
-    "static/media/font.eot": "/static/media/font.dc62e0fc.eot",
-    "static/media/font.woff": "/static/media/font.f01e8d15.woff"
+    "static/css/main.b69b9bf0.chunk.css.map": "/static/css/main.b69b9bf0.chunk.css.map",
+    "static/js/2.275d6b0b.chunk.js.LICENSE.txt": "/static/js/2.275d6b0b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e62d9830.js",
-    "static/js/2.a5253e05.chunk.js",
-    "static/css/main.5bb8bbfb.chunk.css",
-    "static/js/main.d99acf43.chunk.js"
+    "static/js/2.275d6b0b.chunk.js",
+    "static/css/main.b69b9bf0.chunk.css",
+    "static/js/main.deb0d944.chunk.js"
   ]
 }
